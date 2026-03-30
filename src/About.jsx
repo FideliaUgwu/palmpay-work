@@ -2,7 +2,7 @@ function About() {
   return (
     <div>
       <h1>About Page</h1>
-      <p>This is the about page of the application.</p>
+      <p>This is the about page of the application. i want to push to github</p>
     </div>
   );
 }
